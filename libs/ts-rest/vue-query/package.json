@@ -26,6 +26,6 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "@tanstack/vue-query": "^4.0.0"
+    "@tanstack/vue-query": "^5.66.4"
   }
 }
